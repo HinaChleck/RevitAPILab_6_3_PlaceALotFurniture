@@ -1,0 +1,11 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<RevitAddIns>
+  <AddIn Type="Command">
+    <Assembly>"C:\Program Files\RevitAPITraining\RevitAPILab_6_3_PlaceALotFurniture.dll"</Assembly>
+    <AddInId>3DD0618E-9491-446E-BE8F-F607DA03EBCF</AddInId>
+    <FullClassName>RevitAPILab_6_3_PlaceALotFurniture.Main</FullClassName>
+    <VendorId>ADSK</VendorId>
+    <Text>Расставить между точками</Text>
+  </AddIn>
+</RevitAddIns>
+
